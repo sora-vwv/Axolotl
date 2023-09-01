@@ -6,6 +6,7 @@ J-Axolotl - Axolotl programming language compiler based on Java Virtual Machine 
 - [Expressions and Statements](#expressions-and-statements)
   - [Expression](#expressions)
   - [Statements](#statements)
+  - [Type System](#type-system)
 
 # Expressions and Statements
 
@@ -18,5 +19,8 @@ J-Axolotl - Axolotl programming language compiler based on Java Virtual Machine 
 # Statements
 
 ...
+
+
+# Type System
 
 
